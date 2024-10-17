@@ -6,7 +6,7 @@
 
 **Unimate** is a comprehensive solution for campus digitization, leveraging modern NFC technology and AI-powered tools to streamline student experiences. Our platform integrates everything from cafeteria payments to event registration, all accessible through our mobile app and NFC-enabled kiosks.
 
-Visit the live website: [Unimate](unimatehq.com)
+Visit the live website: [Unimate](https://unimatehq.com)
 
 ## Features
 
@@ -32,7 +32,7 @@ Unimate combines cutting-edge technologies to create a unified campus experience
 
 Since the code is proprietary, this repository only serves as an informational page for the Unimate landing website. 
 
-Visit the [Unimate Live Website](unimatehq.com) for more details.
+Visit the [Unimate Live Website](https://unimatehq.com) for more details.
 
 ## License
 
